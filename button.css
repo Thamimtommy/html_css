@@ -1,0 +1,19 @@
+.btn {
+
+padding-top: 8px;
+padding-bottom: 8px;
+
+padding-left: 12px;
+padding-right: 12px;
+
+background-color:red;
+
+}
+.btn-primary{
+	background-color: blue;
+	color: white;
+}
+.btn-secondary{
+	background-color: gray;
+	color: black;
+}
